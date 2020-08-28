@@ -14,7 +14,7 @@ export default makeStyles({
   },
   cardContainer: {
     flexDirection: "column",
-    width: 400,
+    minWidth: "40%",
     height: 200,
     padding: "2rem",
     ...centeredStyleObj,
